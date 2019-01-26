@@ -1,5 +1,5 @@
 # Env setting
-pip install -r requirements.txt
+***pip install -r requirements.txt***
 
 
 ![example](./Fig10_1.png)
@@ -9,6 +9,7 @@ pip install -r requirements.txt
 ![example](./Fig10_5.png)
 ![example](./Fig10_6.png)
 
-#Run
+# Run
 
-python manage.py runserver
+***python manage.py runserver***
+
